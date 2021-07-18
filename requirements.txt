@@ -4,3 +4,4 @@ numpy
 face_recognition
 mediapipe
 opencv-python-headless
+Pillow
